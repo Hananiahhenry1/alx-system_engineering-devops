@@ -1,1 +1,2 @@
--e#!/bin/bash\nls -t1 | head -n 10
+#!/bin/bash
+ls -t1 | head -n 10
